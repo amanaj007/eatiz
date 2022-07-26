@@ -86,7 +86,7 @@ export default {
 #red_body{
   background-color: #fe043c;
   Height:980px;
-  margin-top: -6.2%;
+  margin-top: -7.2%;
   margin-left: 72%;
   max-width: 28%;
 }
