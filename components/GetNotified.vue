@@ -197,7 +197,7 @@ input[type="submit"] {
         width: 52%;
     }
 
-    .pointer-to-cursor{
+    input[type="submit"]{
         margin-top: 4.2%;
     }
 
